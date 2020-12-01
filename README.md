@@ -5,6 +5,7 @@
 > 2020-12-01 从Gitbook迁移到Docsify。
 
 [查看电子书](https://fatsheepkiwi.github.io/Markdown-learning/)
+
 ## 参考资料
 
 1. [Markdown 入门参考][Markdown 入门参考]
@@ -21,7 +22,7 @@
 [xbeta-markdown]: http://xbeta.org/wiki/show/Markdown "XBeta Wiki Markdown"
 [Markdown 入门参考]: https://github.com/LearnShare/Learning-Markdown/tree/v2 "LearnShare markdown 入门参考"
 
-## 共享协议
+<!-- ## 共享协议
 
 本文由 [FatSheep][learnshare] 整理并在 [CC BY-SA 3.0][CC] 协议下发布，个人笔记整理型 Markdown 的入门及参考资料。
 
@@ -29,4 +30,4 @@
 
 [learnshare]: https://github.com/learnshare "LearnShare"
 [CC]: http://zh.wikipedia.org/wiki/Wikipedia:CC "Wiki: CC"
-[license]: http://daringfireball.net/projects/markdown/license "Markdown: License"
+[license]: http://daringfireball.net/projects/markdown/license "Markdown: License" -->

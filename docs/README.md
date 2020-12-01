@@ -1,34 +1,10 @@
-# Learning-Markdown (Markdown 入门参考) 
-<!-- {docsify-ignore-all} -->
+# Learning-Markdown (Markdown 入门参考) <!-- {docsify-ignore-all} -->
 
 一直以来就是Markdown的忠实用户，简单上手就可以快速进入文档编辑。但是我还是希望能够更全面的了解Markdown的特性，因此就有了这份个人学习的Markdown笔记。
 
 > 2020-12-01 从Gitbook迁移到Docsify。
-## 文档目录
 
-* [关于 Markdown](./about/readme.md)
-  - [第一个 Markdown 文档](./about/helloworld.md)
-  - [Hello.md](./about/hello.md)
-* [语法](./syntax/readme.md)
-  - [段落与换行](./syntax/paragraphs-and-line-breaks.md)
-  - [标题](./syntax/headers.md)
-  - [引用](./syntax/blockquotes.md)
-  - [列表](./syntax/lists.md)
-  - [代码](./syntax/code.md)
-  - [分隔线](./syntax/horizontal-rule.md)
-  - [超链接](./syntax/links.md)
-  - [图片](./syntax/images.md)
-  - [强调](./syntax/emphasis.md)
-  - [字符转义](./syntax/blackslash-escapes.md)
-* [扩展语法](./extend-syntax/readme.md)
-  - [删除线](./extend-syntax/strikethrougn.md)
-  - [代码块和语法高亮](./extend-syntax/code-blocks-and-highlighting.md)
-  - [表格](./extend-syntax/table.md)
-  - [Task List](./extend-syntax/task-list.md)
-* [格式转换](./convert/readme.md)
-  - [HTML](./convert/html.md)
-  - [PDF](./convert/pdf.md)
-  - [Word](./convert/word.md)
+[查看电子书](https://fatsheepkiwi.github.io/Markdown-learning/)
 
 ## 参考资料
 
@@ -46,7 +22,7 @@
 [xbeta-markdown]: http://xbeta.org/wiki/show/Markdown "XBeta Wiki Markdown"
 [Markdown 入门参考]: https://github.com/LearnShare/Learning-Markdown/tree/v2 "LearnShare markdown 入门参考"
 
-## 共享协议
+<!-- ## 共享协议
 
 本文由 [FatSheep][learnshare] 整理并在 [CC BY-SA 3.0][CC] 协议下发布，个人笔记整理型 Markdown 的入门及参考资料。
 
@@ -54,4 +30,4 @@
 
 [learnshare]: https://github.com/learnshare "LearnShare"
 [CC]: http://zh.wikipedia.org/wiki/Wikipedia:CC "Wiki: CC"
-[license]: http://daringfireball.net/projects/markdown/license "Markdown: License"
+[license]: http://daringfireball.net/projects/markdown/license "Markdown: License" -->
